@@ -1,5 +1,5 @@
 # Metaversus
-Modern Landing page Website With Framer Motion & Tailwind CSS
+Modern Landing page Website With animations
 
 ## Technologies 
 - NextJs
